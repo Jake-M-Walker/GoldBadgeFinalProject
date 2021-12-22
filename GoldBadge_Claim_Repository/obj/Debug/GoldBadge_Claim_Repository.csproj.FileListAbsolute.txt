@@ -1,0 +1,9 @@
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\FinalProject\GoldBadge_FinalProject\GoldBadge_Claim_Repository\bin\Debug\GoldBadge_Claim_Repository.dll
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\FinalProject\GoldBadge_FinalProject\GoldBadge_Claim_Repository\bin\Debug\GoldBadge_Claim_Repository.pdb
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\FinalProject\GoldBadge_FinalProject\GoldBadge_Claim_Repository\bin\Debug\GoldBadge_Claim_POCO.dll
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\FinalProject\GoldBadge_FinalProject\GoldBadge_Claim_Repository\bin\Debug\GoldBadge_Claim_POCO.pdb
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\FinalProject\GoldBadge_FinalProject\GoldBadge_Claim_Repository\obj\Debug\GoldBadge_Claim_Repository.csproj.AssemblyReference.cache
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\FinalProject\GoldBadge_FinalProject\GoldBadge_Claim_Repository\obj\Debug\GoldBadge_Claim_Repository.csproj.CoreCompileInputs.cache
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\FinalProject\GoldBadge_FinalProject\GoldBadge_Claim_Repository\obj\Debug\GoldBadge_Claim_Repository.csproj.CopyComplete
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\FinalProject\GoldBadge_FinalProject\GoldBadge_Claim_Repository\obj\Debug\GoldBadge_Claim_Repository.dll
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\FinalProject\GoldBadge_FinalProject\GoldBadge_Claim_Repository\obj\Debug\GoldBadge_Claim_Repository.pdb

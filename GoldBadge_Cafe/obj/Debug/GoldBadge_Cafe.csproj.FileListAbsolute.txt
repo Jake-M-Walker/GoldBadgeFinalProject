@@ -1,0 +1,12 @@
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\FinalProject\GoldBadge_FinalProject\GoldBadge_Cafe\obj\Debug\GoldBadge_Cafe.csproj.AssemblyReference.cache
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\FinalProject\GoldBadge_FinalProject\GoldBadge_Cafe\obj\Debug\GoldBadge_Cafe.csproj.CoreCompileInputs.cache
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\FinalProject\GoldBadge_FinalProject\GoldBadge_Cafe\bin\Debug\GoldBadge_Cafe.exe.config
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\FinalProject\GoldBadge_FinalProject\GoldBadge_Cafe\bin\Debug\GoldBadge_Cafe.exe
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\FinalProject\GoldBadge_FinalProject\GoldBadge_Cafe\bin\Debug\GoldBadge_Cafe.pdb
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\FinalProject\GoldBadge_FinalProject\GoldBadge_Cafe\bin\Debug\GoldBadge_Cafe_POCO.dll
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\FinalProject\GoldBadge_FinalProject\GoldBadge_Cafe\bin\Debug\GoldBadge_Cafe_Repository.dll
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\FinalProject\GoldBadge_FinalProject\GoldBadge_Cafe\bin\Debug\GoldBadge_Cafe_POCO.pdb
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\FinalProject\GoldBadge_FinalProject\GoldBadge_Cafe\bin\Debug\GoldBadge_Cafe_Repository.pdb
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\FinalProject\GoldBadge_FinalProject\GoldBadge_Cafe\obj\Debug\GoldBadge_Cafe.csproj.CopyComplete
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\FinalProject\GoldBadge_FinalProject\GoldBadge_Cafe\obj\Debug\GoldBadge_Cafe.exe
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\FinalProject\GoldBadge_FinalProject\GoldBadge_Cafe\obj\Debug\GoldBadge_Cafe.pdb

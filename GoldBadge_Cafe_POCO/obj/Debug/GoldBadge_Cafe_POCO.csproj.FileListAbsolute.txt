@@ -1,0 +1,6 @@
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\FinalProject\GoldBadge_FinalProject\GoldBadge_Cafe_POCO\bin\Debug\GoldBadge_Cafe_POCO.dll
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\FinalProject\GoldBadge_FinalProject\GoldBadge_Cafe_POCO\bin\Debug\GoldBadge_Cafe_POCO.pdb
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\FinalProject\GoldBadge_FinalProject\GoldBadge_Cafe_POCO\obj\Debug\GoldBadge_Cafe_POCO.csproj.AssemblyReference.cache
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\FinalProject\GoldBadge_FinalProject\GoldBadge_Cafe_POCO\obj\Debug\GoldBadge_Cafe_POCO.csproj.CoreCompileInputs.cache
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\FinalProject\GoldBadge_FinalProject\GoldBadge_Cafe_POCO\obj\Debug\GoldBadge_Cafe_POCO.dll
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\FinalProject\GoldBadge_FinalProject\GoldBadge_Cafe_POCO\obj\Debug\GoldBadge_Cafe_POCO.pdb
